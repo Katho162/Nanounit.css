@@ -1,4 +1,4 @@
-<div class="center">
-  <img src="http://transuranic-elements.wikia.com/wiki/File:Stylised_Lithium_Atom.png"><br>
+<div align="center">
+  <img src="https://vignette.wikia.nocookie.net/transuranic-elements/images/e/e2/Stylised_Lithium_Atom.png/revision/latest?cb=20121014111544"><br>
   <p>Simple and Lightweight CSS micro-framework</p>
 </div>
